@@ -10,4 +10,4 @@
 
 3. Make a downloadable app
 
-4. Make it so fast you can see the blinking
+4. Make it so fast you can't see the blinking
