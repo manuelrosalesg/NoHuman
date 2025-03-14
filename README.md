@@ -1,6 +1,6 @@
 # NoHuman
 
-## demo
+## mvp
 https://youtu.be/CEj1yTebZ_s
 
 ### Only works on windows
